@@ -8,17 +8,16 @@
 <head>
     <title>내가 만든 챗봇</title>
     <!-- OG Tag -->
-    <meta property="og:title" content="내가 만든 챗봇">
-    <meta property="og:description" content="Gemini 2.0 Flash로 구현한 챗봇">
+    <meta property="og:title" content="내가 다시 만든 챗봇">
+    <meta property="og:description" content="Gemini 2.0 Flash로 다시 구현한 챗봇">
     <!-- Web Font -->
     <style>
-        /* SunBatang-Light 라는 이름으로 외부 링크의 폰트를 받아오겠다 */
-        @font-face {
-            font-family: 'SunBatang-Light';
-            src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/SunBatang-Light.woff') format('woff');
-            font-weight: normal;
-            font-style: normal;
-        }
+       @font-face {
+           font-family: 'BagelFatOne-Regular';
+           src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/BagelFatOne-Regular.woff2') format('woff2');
+           font-weight: normal;
+           font-style: normal;
+       }
         /* body 안에 있는 텍스트들을 아래 지정한 폰트로 바꿔주겠다 */
         body {
             font-family: 'SunBatang-Light';
